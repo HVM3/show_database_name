@@ -15,7 +15,7 @@
     'depends': ['web'],
 
     'data': [
-        'views/show_database_name_view.xml',
+        'views/hop_show_database_name_view.xml',
     ],
     "images": [
         'static/description/banner.png',

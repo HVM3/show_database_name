@@ -1,4 +1,4 @@
-odoo.define('show_database_name.UserMenu', function (require) {
+odoo.define('hop_show_database_name.UserMenu', function (require) {
     "use strict";
         
     var um = require('web.UserMenu');
